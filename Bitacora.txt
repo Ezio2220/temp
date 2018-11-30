@@ -1,0 +1,5 @@
+
+   || METODO Newton Ransoph||--- 
+  x=1.0 ciclos maximos: 9 
+ R: 1.4142135623746899
+
