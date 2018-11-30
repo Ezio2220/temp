@@ -1,5 +1,6 @@
 # temp
 LAS TORRES DE HANOI TINEN UN MAXIMO DE 8 discos
+EJECUTABLE [.JAR] en carpeta DIST totalmente funcional e independiente de directorios (se recomienda descartar todo el repositorio)
 validaciones aun no agregadas por cuestiones de tiempo
 CONTENIDO: 
  MENU:
